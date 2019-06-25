@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 27877941,
+      "firstName": "Kiana",
+      "lastName": "Ledner",
+      "email": "Eleazar.Jones@yahoo.com"
+    },
+    {
+      "id": 82597305,
+      "firstName": "Mandy",
+      "lastName": "Stracke",
+      "email": "Verna_Kuhic@gmail.com"
+    },
+    {
+      "id": 90331852,
+      "firstName": "Christ",
+      "lastName": "Ruecker",
+      "email": "Alanna.Roob24@gmail.com"
+    },
+    {
+      "id": 49095187,
+      "firstName": "Murphy",
+      "lastName": "Hyatt",
+      "email": "Duncan_Zemlak55@gmail.com"
+    }
+  ]
+}
